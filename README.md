@@ -20,5 +20,4 @@
 </br>
 </br>
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sarthakdesai77&theme=radical&hide_border=false&include_all_commits=true&count_private=false)]()
-![](https://github-readme-streak-stats.herokuapp.com/?user=Sarthakdesai77&theme=radical&hide_border=false)<br/>
+<!--[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sarthakdesai77&theme=radical&hide_border=false&include_all_commits=true&count_private=false)]()--><!--![](https://github-readme-streak-stats.herokuapp.com/?user=Sarthakdesai77&theme=radical&hide_border=false)<br/>-->
